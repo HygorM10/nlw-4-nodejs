@@ -1,2 +1,5 @@
 # Base de Dados SQLite
 /src/database/database.sqlite
+
+# Node Modules
+/node_modules
