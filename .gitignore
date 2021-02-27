@@ -1,5 +1,6 @@
 # Base de Dados SQLite
 /src/database/database.sqlite
+/src/database/database.test.sqlite
 
 # Node Modules
 /node_modules
